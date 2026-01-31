@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#f5a9b8;fill-opacity:1;stroke-width:0.694485;stroke-linejoin:round;stroke-miterlimit:17"
+       id="rect1"
+       width="50"
+       height="50"
+       x="0"
+       y="0"
+       rx="8" />
+    <path
+       d="M 15.101041,43.086895 13.436178,38.39742 h -1.120963 l -1.65823,4.689475 h 1.02147 l 0.291848,-0.888812 h 1.731192 l 0.291849,0.888812 z m -1.651597,-1.664863 h -1.220457 l 0.484203,-1.492407 c 0.0597,-0.185722 0.119393,-0.43114 0.119393,-0.59033 h 0.01327 c 0,0.145924 0.05306,0.391342 0.119392,0.59033 z m 4.291494,1.664863 v -4.682842 h -0.815849 c -0.212254,0.165823 -0.716356,0.484203 -1.260255,0.736254 l -0.285216,0.132659 0.318381,0.716355 0.245418,-0.126025 C 16.115873,39.777068 16.58681,39.53165 16.746,39.405624 v 3.681271 z"
+       id="text2"
+       style="font-weight:bold;font-size:6.63292px;line-height:1;font-family:Parisine;-inkscape-font-specification:'Parisine, Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;stroke-width:1.13386;stroke-linejoin:round;stroke-miterlimit:17"
+       transform="matrix(5.6465565,0,0,5.6465565,-55.175216,-205.05225)"
+       aria-label="A1" />
+  </g>
+</svg>
